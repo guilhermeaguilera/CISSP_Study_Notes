@@ -1,0 +1,47 @@
+40 minutos
+
+Federal Information Security Management Act (FISMA):
+	
+	Exige que agencias federais implementem um programa de segurança da informação que cobre as operações da agência e contractors. 
+	
+1.5 Entendendo os requisitos para tipos de investigação (exemplo: administrativa, criminal, civil, regulatória, padrões de indústria.)
+
+	Uma investigação vai variar de acordo com o tipo de incidente. Exemplo: Um sistema financeiro comprometido pode causar uma investigação regulatória. Uma violação de sistema ou comprometimento de website podem causar uma investigação criminal. Cada tipo de investigação possui condições especiais:
+		○ Administrativa: 
+			§ Investigações internas normalmente fazem uma revisão de problemas operacionais ou violações das políticas de segurança. Frequentemente vinculados em cenários de RH. Uma investigação administrativa pode ser parte de um troubleshooting técnico. Desde que essas investigações sejam de propósito interno, eles normalmente possuem pouco formalidade e padrões em termos de documentação ou procedimentos comparados a outros tipos. Investigações administrativas muitas vezes focam em encontrar a causa raiz de problemas operacionais. 
+	
+		○ Criminal:
+			§ Uma investigação criminal ocorre quando um crime ocorreu e você está trabalhando com uma agência de aplicação da lei para condenar o suspeito. Em alguns casos, é comum levam evidencias para uma corte de lei e compartilhar a evidencia com a defesa.
+				□ Você precisa juntar e manter a informação usando métodos que garantam que a evidencia possa ser utilizada na corte.
+				□ Em um caso criminal, o suspeito deve ser considerado além de qualquer dúvida razoável. 
+	
+		○ Civil:
+			§ Em um caso civil, uma pessoa ou entidade processa a outra, exemplo: uma empresa pode processar outro por uma violação de uso da marca registrada.
+			§ Um caso civil é tipicamente sobre danos monetários e não envolve crimes. 
+			§ Em um caso civil, uma evidencia é requirida para garantir uma vitória, diferente de um caso criminal, onde o suspeito é inocente até que se prove o contrário. Normalmente a coleta de evidencias de casos civis são mais baixos que em casos criminais. 
+	
+		○ Padrões de indústria:
+			Uma investigação em padrões de indústria é entendido para determinar quando uma organização é aderindo a um especifico regulações de indústria ou grupos de regulações, como PCI e DSS. Como regulações não são leis, essas investigação podem ser contratuais de acordo com o compliance e uma organiza pode ser necessária a participação em auditorias e avaliações.
+			
+			Como regulações de indústria representam um amplo conjunto de melhores práticas aplicadas, muitas organizações tentam aderir a elas mesmo que não seja necessário,  apenas para garantir segurança e reduzir riscos operacionais e outros tipos de risco.
+			
+		○ Regulação
+			§ Uma investigação regulatória é conduzida por um grupo regulatório, como os Securities and Exchange Commision (SEC) ou Financial Industry Regulatory Authority (FINRA), contra uma organização suspeita de infração.
+				□ Aqui uma organização é obrigada a cumprir com a investigação, sem esconder ou destruir evidencias. 
+	
+1.6 - Desenvolver, documentar e implementar políticas de segurança, regulações, procedimentos e guias.
+
+	Para criar um plano de segurança eficiente, você precisa seguir os seguintes itens: políticas de segurança, regulações, guias, documentos e procedimentos. 
+	
+	O nível superior da documentação de segurança de uma organização formalizada é a política de segurança. 
+		Política: 
+			Documentos criados e publicados por um Senior Management descrevendo objetivos estratégicos organizacionais.
+			Uma política de segurança é um documento que define o escopo da segurança necessária na organização, discutindo assets que precisam de proteção e estender para quais soluções de segurança poderiam fornecer as proteções necessárias. 
+			Ela define os objetivos estratégicos da segurança, visão, metas e descreve a estrutura de segurança da organização.
+			
+		Acceptable Use Policy: 
+			O AUP normalmente é um documento que existe como parte da infraestrutura geral de segurança da organização.
+			
+			Essa política define o nível de performance aceitável e a expectativa dos comportamentos e atividades. O não cumprimento dessas políticas podem resultar em ações de trabalho, como alertas, penalizações e rescisão.
+		
+			
