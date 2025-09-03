@@ -1,0 +1,38 @@
+02/09/2025 - CISSP - 29 minutos
+
+US Patriot Act of 2001:
+	
+	Promulgada após os ataques de 11 de Setembro com o objetivo declarado de reforçar a segurança nacional dos EUA, particularmente no que se refere ao terrorismo estrangeiro.
+	
+	O lei inclui três provisões principais:
+		○ Expandir habilidades de vigilância das autoridades policiais, incluindo grampear telefones nacionais e internacionais;
+		○ Comunicação interinstitucional mais fácil para permitir agenciais federais para serem mais efetivas em usar todos recursos disponíveis contra terrorismo, permitindo o governo a obter informações detalhadas da atividade do usuário através de uma intimação e ISP's podem voluntariamente fornecer um grande número de informações ao governo.
+		○ Aumentar as penalidades para crimes de terrorismo e expandir a lista de atividades que qualificam como terrorismo.
+
+1.4.6 Contractual, legal, industry standards, and regulatory requirements - Requisitos contratuais, legais, padrões de indústria e regulatórios
+	
+	Entender a diferença entre leis criminais, civis e administrativas.
+		○ Lei criminal: 
+			§ Protege a sociedade contra atos que violam os princípios básicos que nós acreditamos, violações da lei criminal são processadas pelo governo federal e estadual.
+		○ Lei civil: 
+			§ Fornece frameworks(estruturas) para a transação de negócios entre pessoas e organizações, violações de leis civis são levadas para a corte e argumentadas pelas duas partes envolvidas.
+		○ Lei administrativa:
+			§ Usada por agências governamentais para carry out ("tocar", "realizar efetivamente") seu negócio diário.
+	
+	Compliance: 
+		Organizações podem encontrar eles mesmos sujeito a uma variedade de leis e regulamentações impostas por agências regulatórias ou obrigações contratuais:
+	
+		○ Payment Card Industry Data Security Standard (PCI DSS): 
+			§ Governa a segurança nas informações dos cartões de crédito e é aplicada por meio dos termos de um acordo comercial entre uma empresa que aceita pagamentos C e o banco que processa as transações bancarias.
+			
+		○ Sabanes-Oxley (SOX):
+			§ Governa empresas negociadas publicamente; sistemas financeiros podem ser auditados para garantir que controles de segurança estão fornecendo o compliance com o SOX. Exige que a alta administração certifique individualmente a precisão das informações financeiras.
+			
+		○ Gramm-Leach-Bliley Act (GLBA):
+			§ Afeta bancos, companhias de seguro e fornecedores de crédito.
+			§ Inclui um número de limitações dos tipos de informação que podem ser transferidas através de subsidiarias dentro da mesma organização, e exige instituições financeiras para fornecer políticas de privacidade escritas para todos seus clientes. 
+			
+		○ Health Insurance Portability and Accountability Act (HIPAA):
+			§ Regulações de privacidade e segurança que exigem medidas de segurança rigorosas para hospitais, clinicas, companhias de seguro e outras organizações que processam ou armazenam informações médicas privadas sobre indivíduos;
+			§ Também define claramente os direitos dos indivíduos que são submetidos a tratamentos médicos e exige que as organizações mantenham esses registros para divulgar esses direitos por escrito.
+				□ Inclui penalidades criminais por violações.
